@@ -1,0 +1,15 @@
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/SimpleCalculatorProject.csproj.AssemblyReference.cache
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/SimpleCalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/SimpleCalculatorProject.AssemblyInfoInputs.cache
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/SimpleCalculatorProject.AssemblyInfo.cs
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/SimpleCalculatorProject.csproj.CoreCompileInputs.cache
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/bin/Debug/net7.0/SimpleCalculatorProject
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/bin/Debug/net7.0/SimpleCalculatorProject.deps.json
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/bin/Debug/net7.0/SimpleCalculatorProject.runtimeconfig.json
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/bin/Debug/net7.0/SimpleCalculatorProject.dll
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/bin/Debug/net7.0/SimpleCalculatorProject.pdb
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/SimpleCalculatorProject.dll
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/refint/SimpleCalculatorProject.dll
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/SimpleCalculatorProject.pdb
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/SimpleCalculatorProject.genruntimeconfig.cache
+/Users/danielbarros/Library/CloudStorage/OneDrive-CQUniversity/LinkedIn Learning/Course - Learning C#/02_Program_Flow/SimpleCalculatorProject/obj/Debug/net7.0/ref/SimpleCalculatorProject.dll
